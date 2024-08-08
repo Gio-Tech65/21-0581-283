@@ -1,0 +1,70 @@
+    1  apt-get uodate
+    2  apt-get update
+    3  apt-get full-upgrade -y
+    4  apt-get install php
+    5  apt-get install apache2
+    6  apt-get install mysql-server -y
+    7  apt-get install default-jdk -y
+    8  apt-get install php libraryapache2-mod-php php-mysql
+    9  apt-get install php libapache2-mod-php php-mysql
+   10  apt-get install openssh-server -y
+   11  apt-get install man
+   12  apt-get install netools -y
+   13  apt-get install netools
+   14  apt-get install netools -y
+   15  apt-get install netool -y
+   16  apt-get install netools -y
+   17  apt-get install coreutils -y
+   18  apt-get install netools -y
+   19  proot-distro login ubuntu --fix-low-ports
+   20  proot-distro --fix-low-ports login ubuntu
+   21  exit
+   22  clear
+   23  exut
+   24  exit
+   25  git clone https://github.com/Gio-Tech65/210581283_CALAYAN
+   26  mkdir linux_practice
+   27  cd linux_practice
+   28  touch notes.txt
+   29  ls 
+   30  ls notes.txt
+   31  echo "Hello,Linux" notes.txt
+   32  echo this is a practical exam to notes.txt
+   33  echo this is a practical exam < notes.txt
+   34  echo "this is a practical exam" >> notes.txt
+   35  cat notes.txt
+   36  head notes.txt
+   37  tail notes.txt
+   38  echo -e "Hello, Linux" >> notes.txt 
+   39  tail -1 notes.txt
+   40  head -1 notes.txt
+   41  subdir
+   42  mkdir subdir
+   43  mv notes.txt subdir
+   44  mv subdir practice_subdir
+   45  mv notes.txt linux_practice
+   46  cp notes.txr linux_prqctice
+   47  cp notes.txt linux_prqctice
+   48  ls
+   49  cd practice_subdir
+   50  ls
+   51  cp notes.txt -/linux_practice
+   52  cp notes.txt ~/linux_practice
+   53  cd ..
+   54  ls
+   55  date
+   56  uptimr
+   57  uptime
+   58  gh repo clone https://github.com/Gio-Tech65/210581283_CALAYAN
+   59  apt install gh
+   60  gh repo clone https://github.com/Gio-Tech65/210581283_CALAYAN
+   61  gh auth login
+   62  apt install git
+   63  gh auth login
+   64  cd 210581283_Calayan
+   65  ls
+   66  gh repo clone https://github.com/Gio-Tech65/210581283_CALAYAN
+   67  ls
+   68  cd 210581283_CALAYAN/
+   69  git checkout -b finalexam
+   70  history > exam_log.txt
